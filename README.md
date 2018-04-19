@@ -36,3 +36,4 @@ Remember the workflow:
 If you open up `test/indexTest.js`, you will see that in the `beforeEach` block we initialize our `driver` array values so that you can focus on what really matters — understanding how to manipulate arrays in JavaScript.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-data-structures-arrays-lab'>Arrays Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Arrays Lab</p>
