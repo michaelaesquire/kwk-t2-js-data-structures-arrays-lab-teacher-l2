@@ -31,3 +31,9 @@ function removeLastDriver() {
   newBoi.pop();
   return newBoi;
 }
+
+function removeFirstDriver() {
+  let newBoi = drivers.slice();
+  newBoi.shift();
+  return newBoi;
+}
