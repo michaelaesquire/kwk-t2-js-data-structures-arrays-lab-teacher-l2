@@ -28,6 +28,6 @@ function prependDriver(name) {
 
 function removeLastDriver() {
   let newBoi = drivers.slice();
-  return drivers;
+  return newBoi;
 //  return newBoi.pop();
 }
